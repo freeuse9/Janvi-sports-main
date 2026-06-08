@@ -1,0 +1,6 @@
+{
+  "name": "Janvi Sports ERP",
+  "description": "A synchronized real-time multi-device sports goods enterprise resource planning system, featuring QR inventory scanning, billing, field collections, sales returns, and dynamic ledger tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
